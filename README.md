@@ -6,6 +6,16 @@ whoami
 ```
 ![image](https://github.com/user-attachments/assets/6bf47cd5-a768-4405-8a7b-1938024b9b80)
 
+## Printing your present working directory
+```
+pwd
+ls
+cd Downloads
+pwd
+```
+![image](https://github.com/user-attachments/assets/c40f3f06-0f3e-4328-873f-11020f0fd427)
+
+
 ## Listing files and directories
 ```
 ls
